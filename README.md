@@ -11,7 +11,7 @@ The total number of orders was calculated.
 The total revenue was calculated.
 The average order value was calculated.
 The most popular product category was identified.
-The most popular payment method was identified..
+The most popular payment method was identified.
 A bar chart of the number of orders by product category was plotted.
 A line chart of the total revenue over time was plotted.
 ### Feature Engineering
@@ -23,5 +23,5 @@ The Total Quantity was calculated as the total qunatities of products that have 
 ### Time Series Analysis
 The following time series analysis was performed:
 
-ARIMA and SARIMAX models were fit to the Total Quantity data.
+ARIMA and SARIMAX models were fit to the Total Quantity Of Orders.
 The forecast has been impelmented to both models.
